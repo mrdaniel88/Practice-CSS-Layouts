@@ -36,3 +36,18 @@ nav,
 section {
 	padding: 100px 0;
 }
+
+.secondWrapper {
+	display: flex;
+}
+
+section {
+	width: 80%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+nav {
+	width: 20%;
+	margin-left: 10px;
+}
